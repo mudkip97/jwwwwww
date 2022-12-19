@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
+title: Chung Juen Wei # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hi! I'm Juen Wei, a recent university graduate and I am extremely excited to start my career in data analytics. I have always been interested in using data to understand patterns and trends, and I believe that a career in data analytics will allow me to do just that. I enjoy problem solving and am always looking for ways to increase my skillset in order to solve complex problems.
   <br><br>
-  Second description 
+  Here are some of my works
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jw-chung/">My LinkedIn Profile</a> 
+  <br><br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
